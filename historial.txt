@@ -1,0 +1,47 @@
+commit aa0a5499014c418907509c8988d253755ffe1485
+Author: natxo <natxoberrotaran@gmail.com>
+Date:   Thu Mar 19 17:03:23 2026 +0100
+
+    he cambiao el gamil
+
+commit 217e54ded278f6cce0a688b2a648b37d472abdcc
+Merge: 66da630 130f989
+Author: LILPATILLA <josemedina250507@gmail.com>
+Date:   Thu Mar 19 16:43:11 2026 +0100
+
+    Merge pull request #2 from josemedina250507-dotcom/desarrollo_contact
+    
+     Se ha añadido el teléfono de contacto
+
+commit 130f9892e8ec5e25108fc87ca2b8c2a5ffedc344
+Author: josemi <josemedina250507@gmail.com>
+Date:   Thu Mar 19 16:41:55 2026 +0100
+
+     Se ha añadido el teléfono de contacto
+
+commit 66da630b5262f22f06b635b01d6c92d87ab6f6b2
+Merge: ceacee8 aeb5912
+Author: natxoberrotaran-code <natxoberrotaran@gmail.com>
+Date:   Thu Mar 19 16:35:49 2026 +0100
+
+    Merge pull request #1 from josemedina250507-dotcom/desarrollo_about
+    
+     Se ha añadido la noticia al about
+
+commit aeb59122757223d08cdff8577258241fb7309d78
+Author: natxo <natxoberrotaran@gmail.com>
+Date:   Thu Mar 19 16:32:23 2026 +0100
+
+     Se ha añadido la noticia al about
+
+commit ceacee8195b146368758e4b5cd6c05e8285d76d2
+Author: natxo <natxoberrotaran@gmail.com>
+Date:   Thu Mar 19 16:24:03 2026 +0100
+
+     Index About Contact
+
+commit df4c7902a4f51e2fbaa71608aea4a2cf0000882c
+Author: natxo <natxoberrotaran@gmail.com>
+Date:   Mon Mar 16 19:33:09 2026 +0100
+
+    PracticaWeb
